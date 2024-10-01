@@ -12,4 +12,4 @@
 2
 ```
 
-![NKUST](nkust.png "NKUST")
+![NKUST](nkust.png.png "NKUST")
